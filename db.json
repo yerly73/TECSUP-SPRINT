@@ -1,0 +1,95 @@
+{
+  "user": [
+    {
+      "id": "Yerly",
+      "name": "Maria ",
+      "password": "Yerly1234",
+      "email": "yerlysheyna@gmail.com",
+      "phone": "910355541",
+      "country": "usa",
+      "address": "",
+      "gender": "female"
+    },
+    {
+      "id": "Dayana",
+      "name": "Dayanita",
+      "password": "Dayana1234",
+      "email": "dayanaaysa@gmail.com",
+      "cycle": "quinto",
+      "carrera": "videjuegos"
+    },
+    {
+      "id": "vane",
+      "name": "vanessa",
+      "password": "Vane1234",
+      "email": "vanesachoque@gmail.com",
+      "cycle": "tercero",
+      "carrera": "redes"
+    },
+    {
+      "id": "treyci",
+      "name": "treyci",
+      "password": "Treyci1234",
+      "email": "treyci@gmail.com",
+      "cycle": "quinto",
+      "carrera": ""
+    }
+  ],
+  "roleaccess": [
+    {
+      "role": "admin",
+      "menu": "customer",
+      "haveadd": true,
+      "haveedit": true,
+      "havedelete": true
+    },
+    {
+      "role": "admin",
+      "menu": "supplier",
+      "haveadd": true,
+      "haveedit": true,
+      "havedelete": true
+    },
+    {
+      "role": "user",
+      "menu": "customer",
+      "haveadd": false,
+      "haveedit": false,
+      "havedelete": false
+    },
+    {
+      "role": "user1",
+      "menu": "customer",
+      "haveadd": false,
+      "haveedit": false,
+      "havedelete": false
+    }
+  ],
+  "customer": [
+    {
+      "code": 1,
+      "name": "Chris",
+      "email": "chris@in.com"
+    },
+    {
+      "code": 2,
+      "name": "Lynn",
+      "email": "lynn@in.com"
+    },
+    {
+      "code": 3,
+      "name": "Tim",
+      "email": "tim@in.com"
+    },
+    {
+      "code": 4,
+      "name": "Southee",
+      "email": "southee@in.com"
+    },
+    {
+      "code": 5,
+      "name": "boult",
+      "email": "bould@in.com"
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+#img {
+    width: 30%;
+    height: 50%;
+    flex: 1;
+}
+.div{
+    display: flex;    
+}
+#colu{
+    padding: auto;
+    margin-top: 1px;
+    align-items: center;
+    justify-content: center;
+    display: flex;
+    flex-direction: column;
+    
+}
+.navbar-brand{
+    color: black;
+  }
